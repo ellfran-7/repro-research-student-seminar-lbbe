@@ -1,0 +1,345 @@
+[
+  {
+    "objectID": "02-further-reads.html#comprehensive-workshop-resource-recommendation",
+    "href": "02-further-reads.html#comprehensive-workshop-resource-recommendation",
+    "title": "Further reading",
+    "section": "1 Comprehensive workshop resource recommendation",
+    "text": "1 Comprehensive workshop resource recommendation\nI highly recommend the Reproducible Research in Computational Ecology workshop by Casajus et al. (2024), which provides slides and hands-on exercises covering all concepts discussed in this presentation including research compendium, version control with git, literate programming with Quarto, and reproducible environments with renv.\nHere is the reference and the link:\n\nCasajus N, Bonnici I, Dray S, Gimenez O, Guéry L, Guilhaumon F, Schiettekatte NMD & Siberchicot A (2024) FRB-CESAB & GdR EcoStat training course: Reproducible Research in Computational Ecology. Zenodo. URL: http://doi.org/10.5281/zenodo.4262978 (workshop materials)\n\nI also highly recommend The Turing Way handbook to reproducible, ethical and collaborative data science. This is an open-science, open collaboration, and community-driven project.\nHere is the reference and the link:\n\nThe Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. URL: http://doi.org/10.5281/zenodo.3233986 (book material)"
+  },
+  {
+    "objectID": "02-further-reads.html#some-resources-for-understanding-reproducible-research",
+    "href": "02-further-reads.html#some-resources-for-understanding-reproducible-research",
+    "title": "Further reading",
+    "section": "2 Some resources for understanding Reproducible Research",
+    "text": "2 Some resources for understanding Reproducible Research\n\nRepro4Everyone. Introduction to Reproducibility. A beginner-friendly overview of reproducibility concepts and practices. (link)\nThe Turing Way Community. Guide for Reproducible Research. Comprehensive handbook covering all aspects of reproducible research DOI: 10.5281/zenodo.3332807 (link to guide)\nBlankart K, Ivets M, Goetjes E & Miele K. A Concise Guide to Reproducible Research Using Secondary Data. Practical guide focused on working with existing datasets. (link)"
+  },
+  {
+    "objectID": "02-further-reads.html#some-resources-for-essential-tools-and-technologies",
+    "href": "02-further-reads.html#some-resources-for-essential-tools-and-technologies",
+    "title": "Further reading",
+    "section": "3 Some resources for essential tools and technologies",
+    "text": "3 Some resources for essential tools and technologies\n\nVersion control with git and hosting platforms\n\nBryan J. Happy Git and GitHub for the useR. Step-by-step guide for R users to get started with git and GitHub. (link)\n\n\n\nReproducible environments with renv R package\n\nUshey K, Wickham H & Posit. renv: Project Environments for R. Official documentation for managing R package dependencies. (link)\nMaigné E. Package renv: présentation et retour d’expérience (French). Practical experience and presentation on using renv. (link)\n\n\n\nTidy data\n\nWickham H, Çetinkaya-Rundel M & Grolemund G. R for Data Science. Essential resource for learning data manipulation and the tidy data principles. (link)\n\n\n\nLiterate programming and Quarto\n\nKnuth D. Literate Programming (1984). The original paper introducing the concept of literate programming. (link)\nAbrams H. Literate Programming - Introduction. Modern introduction to literate programming concepts. (link)\nBray A. Introduction to Quarto (posit::conf 2024). Comprehensive tutorial for getting started with Quarto. (link)\nXie Y. With Quarto Coming, is R Markdown Going Away? No. Blog post clarifying the relationship between R Markdown and Quarto. (link)\nDelmelle E. Introduction to Quarto. Slide-based introduction to Quarto features and capabilities. (link)"
+  },
+  {
+    "objectID": "02-further-reads.html#finding-repositories-for-your-data",
+    "href": "02-further-reads.html#finding-repositories-for-your-data",
+    "title": "Further reading",
+    "section": "4 Finding repositories for your data:",
+    "text": "4 Finding repositories for your data:\n\nOù déposer et publier ses données - recherche.data.gouv.fr. French government guide for data deposition and publication. (link)\nre3data - Registry of Research Data Repositories. Global registry to help find appropriate data repositories for your field. (link)"
+  },
+  {
+    "objectID": "02-further-reads.html#key-literature-on-reproducible-research",
+    "href": "02-further-reads.html#key-literature-on-reproducible-research",
+    "title": "Further reading",
+    "section": "5 Key literature on Reproducible Research",
+    "text": "5 Key literature on Reproducible Research\nThe bibliography section below contains seminal papers and recent developments in reproducible research practices:\n\nClaerbout and Karrenbach (1992)\nLoscalzo (2012)\nFreedman, Cockburn, and Simcoe (2015)\nBaker (2016)\nThis (2017)\nPlesser (2018)\nMarwick, Boettiger, and Mullen (2018)\nPlesser (2018)\nSchloss (2018)\nReproducibility and Replicability in Science (2019)\nDesquilbet et al. (2019)\nGundersen (2021)\nAlston and Rick (2021)\nZiemann, Poulain, and Bora (2023)\nCalnan et al. (2024)\nCasajus et al. (2024)\n“Reproducibility: Why It Matters and How It Can Be Nurtured | Elsevier” (n.d.)\n“Six Factors Affecting Reproducibility in Life Science Research and How to Handle Them” (n.d.)"
+  },
+  {
+    "objectID": "00-welcome-page.html",
+    "href": "00-welcome-page.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Three little beans painting the same fruit basket, but with diverging results\nWelcome! 🧙\nThis presentation, “Reproducible Research: Every little helps”, offers a brief overview of key ideas and insights I’ve gathered from the literature—along with a few lessons I’ve learned along the way that may aid some of you."
+  },
+  {
+    "objectID": "00-welcome-page.html#background-of-the-presentation",
+    "href": "00-welcome-page.html#background-of-the-presentation",
+    "title": "Welcome",
+    "section": "Background of the presentation",
+    "text": "Background of the presentation\nThis presentation was designed for a weekly seminar series at the LEHNA laboratory. It originated from discussions with my friend and lab member Jérémy Bacon. This seminar is a shorter, less hands-on version of the workshop I conducted in February of this year—you can explore the full materials and site here.\nRecognising the ongoing need to share knowledge about reproducible research, I decided to organise this session to contribute what I know on the topic (or what I think I know 👽). While I don’t claim to be an expert, every little helps. My hope is that this seminar sparks enough interest to encourage others to explore and strive toward more reproducible, transparent, and accessible research practices."
+  },
+  {
+    "objectID": "00-welcome-page.html#description",
+    "href": "00-welcome-page.html#description",
+    "title": "Welcome",
+    "section": "Description",
+    "text": "Description\nThe presentation focuses on introducing the what, where, when, and how of reproducible research. We’ll explore the benefits of working reproducibly—both for others and for ourselves—examine the factors that limit or discourage reproducible practices, and discuss practical, incremental solutions for becoming more reproducible in our work. A seminar on this subject gains value through interaction and engagement from the audience, so I’ve woven discussion questions throughout the presentation to encourage exchange and reflection."
+  },
+  {
+    "objectID": "00-welcome-page.html#inspiration",
+    "href": "00-welcome-page.html#inspiration",
+    "title": "Welcome",
+    "section": "Inspiration",
+    "text": "Inspiration\nThe presentation’s structure and certain content elements were inspired by:\n\nthe Reproducible research presentation from the Data Toolbox for Reproducible Research in Ecology organized by the FRB-CESAB and the GdR EcoStat\nAlston JM, Rick JA. 2021 A beginner’s guide to conducting reproducible research. Bull. Ecol. Soc. Am. 102, 1–14. (doi:10.1002/bes2.1801c)\nthe Introduction to Reproducibility presentation created by Repro4Everyone"
+  },
+  {
+    "objectID": "00-welcome-page.html#licence",
+    "href": "00-welcome-page.html#licence",
+    "title": "Welcome",
+    "section": "Licence",
+    "text": "Licence\nExcept where otherwise noted, this work is licensed under a Creative Commons Attribution 4.0 International License."
+  },
+  {
+    "objectID": "01-reprores-slides.html#how-many-here-have-had-trouble-reproducing-your-own-or-someone-elses-work",
+    "href": "01-reprores-slides.html#how-many-here-have-had-trouble-reproducing-your-own-or-someone-elses-work",
+    "title": "Reproducible Research",
+    "section": " How many here have had trouble reproducingyour own or someone else’s work? 🤔",
+    "text": "How many here have had trouble reproducingyour own or someone else’s work? 🤔"
+  },
+  {
+    "objectID": "01-reprores-slides.html#what-should-be-kept-the-same-when-reproducing-a-study",
+    "href": "01-reprores-slides.html#what-should-be-kept-the-same-when-reproducing-a-study",
+    "title": "Reproducible Research",
+    "section": "What should be kept the samewhen reproducing a study? 🤔",
+    "text": "What should be kept the samewhen reproducing a study? 🤔\n\n\nThe results"
+  },
+  {
+    "objectID": "01-reprores-slides.html#what-does-reproducibility-mean-actually",
+    "href": "01-reprores-slides.html#what-does-reproducibility-mean-actually",
+    "title": "Reproducible Research",
+    "section": "What does reproducibility mean actually?",
+    "text": "What does reproducibility mean actually?\n\n\n \n\n\nDifficult question to answer…\n“Lack of reproducibility” ➡️ understood but broad expression\nNo clear definition ➡️ varies between the disciplines"
+  },
+  {
+    "objectID": "01-reprores-slides.html#what-does-reproducibility-mean-actually-1",
+    "href": "01-reprores-slides.html#what-does-reproducibility-mean-actually-1",
+    "title": "Reproducible Research",
+    "section": "What does reproducibility mean actually?",
+    "text": "What does reproducibility mean actually?\n\n\n \n\nDifficult question to answer…\n“Lack of reproducibility” ➡️ understood but broad expression\nNo clear definition ➡️ varies between the disciplines\n\n\n\n\n\nGundersen Odd Erik 2021 The fundamental principles of reproducibility Phil. Trans. R. Soc. A.37920200210 DOI: 10.1098/rsta.2020.0210."
+  },
+  {
+    "objectID": "01-reprores-slides.html#what-does-reproducibility-mean-actually-2",
+    "href": "01-reprores-slides.html#what-does-reproducibility-mean-actually-2",
+    "title": "Reproducible Research",
+    "section": "What does reproducibility mean actually?",
+    "text": "What does reproducibility mean actually?\n\n\n\nDirect reproducibility (also called experimental reproducibility) 🧪\n\n\n\n\nAnalytical reproducibility (also called computational reproducibility) 💻\n\n\n\n\nOther related terms to distinguish:\n\n\n\nReplicability: Different data | Same analysis methods\nRobustness: Same data | Different analysis methods\nGeneralisability: Different data | Different analysis methods\n\n\n\n\n\n\nSchloss, 2018. DOI: 10.1128/mbio.00525-18\n\n\nThe Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. 10.5281/zenodo.3233986"
+  },
+  {
+    "objectID": "01-reprores-slides.html#in-other-words",
+    "href": "01-reprores-slides.html#in-other-words",
+    "title": "Reproducible Research",
+    "section": "In other words…",
+    "text": "In other words…\n \n\n\nData\n\n\nCode\n\n\nDocumentation"
+  },
+  {
+    "objectID": "01-reprores-slides.html#in-other-words-1",
+    "href": "01-reprores-slides.html#in-other-words-1",
+    "title": "Reproducible Research",
+    "section": "In other words…",
+    "text": "In other words…\n \n\n\n\n\n\n\n\n\nReproducible Research"
+  },
+  {
+    "objectID": "01-reprores-slides.html#why-are-we-talking-about-this-now",
+    "href": "01-reprores-slides.html#why-are-we-talking-about-this-now",
+    "title": "Reproducible Research",
+    "section": "Why are we talking about this now?",
+    "text": "Why are we talking about this now?\n\n\n\n\n\n\n\n\n\n\nBaker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454 (2016). DOI: 10.1038/533452a.\n\n\n\n\n\n\n70% of researchers can’t reproduce others’ findings\n60% can’t reproduce their own findings\nNon-reproducible biomedical research costs $28 billion/year(Freedman et al. 2015)"
+  },
+  {
+    "objectID": "01-reprores-slides.html#how-important-is-it-well-quite-important",
+    "href": "01-reprores-slides.html#how-important-is-it-well-quite-important",
+    "title": "Reproducible Research",
+    "section": "How important is it? Well, quite important",
+    "text": "How important is it? Well, quite important\n \n\n\n\nAnyone (with a similar level of skills) should be able to do reproduce your research and benefit from it\nFunders (e.g., ANR) and journals now require data and code accessibility, which aligns with the growing open-science movement\nIf I keep my data and code, I have a competitive advantage\nIf I share my data and code, my work will gain more visibility (and citations 😎)"
+  },
+  {
+    "objectID": "01-reprores-slides.html#advantages",
+    "href": "01-reprores-slides.html#advantages",
+    "title": "Reproducible Research",
+    "section": "Advantages",
+    "text": "Advantages\n \n\n\nIt obliges you to verify your work (by sharing both docs, data and code)\nYour future self will thank you (you’ll be much more productive)\nYour collaborators too\nBy ensuring reproducibility, you reinforce your credibility and reputation\nEmployers increasingly value reproducible research skills\nReproducibility fosters trust in scientific progress and accelerates it"
+  },
+  {
+    "objectID": "01-reprores-slides.html#what-factors-do-you-think-can-limit-reproducibility",
+    "href": "01-reprores-slides.html#what-factors-do-you-think-can-limit-reproducibility",
+    "title": "Reproducible Research",
+    "section": " What factors do you think can limit reproducibility? 🤔",
+    "text": "What factors do you think can limit reproducibility? 🤔"
+  },
+  {
+    "objectID": "01-reprores-slides.html#factors-limiting-reproducibility",
+    "href": "01-reprores-slides.html#factors-limiting-reproducibility",
+    "title": "Reproducible Research",
+    "section": "Factors limiting reproducibility",
+    "text": "Factors limiting reproducibility\n\n\n  \n\nFailures of reproducibility cannot be traced to a single cause\nNearly every aspect of a study needs to be considered– from conception to publication\n\n\n\n\n\n\n\n\n\nBaker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454 (2016). DOI: 10.1038/533452a."
+  },
+  {
+    "objectID": "01-reprores-slides.html#factors-limiting-reproducibility-1",
+    "href": "01-reprores-slides.html#factors-limiting-reproducibility-1",
+    "title": "Reproducible Research",
+    "section": "Factors limiting reproducibility",
+    "text": "Factors limiting reproducibility\n\n\n\n\n\n\n\n\n\n\nTimothée Poisot (Sep 8 2015) ‘Step 2 — do the rest of the fucking analysis’ [Medium], Page 1, accessed 10 Jan 2025.\n\n\n\n\n \n\n\n\n\n\n“Ambiguous protocol”"
+  },
+  {
+    "objectID": "01-reprores-slides.html#before-data-analysis",
+    "href": "01-reprores-slides.html#before-data-analysis",
+    "title": "Reproducible Research",
+    "section": "Before data analysis ",
+    "text": "Before data analysis \nData storage and organisation"
+  },
+  {
+    "objectID": "01-reprores-slides.html#before-data-analysis-1",
+    "href": "01-reprores-slides.html#before-data-analysis-1",
+    "title": "Reproducible Research",
+    "section": "Before data analysis ",
+    "text": "Before data analysis \nData storage and organisation\n\n\nIssues: Poor data management leads to lost files, corrupted datasets, and mystery data that no one can interpret or trace back to its source"
+  },
+  {
+    "objectID": "01-reprores-slides.html#before-data-analysis-2",
+    "href": "01-reprores-slides.html#before-data-analysis-2",
+    "title": "Reproducible Research",
+    "section": "Before data analysis ",
+    "text": "Before data analysis \nData storage and organisation\n\n\nIssues: Poor data management leads to lost files, corrupted datasets, and mystery data that no one can interpret or trace back to its source\n\n\n\nSolutions:"
+  },
+  {
+    "objectID": "01-reprores-slides.html#before-data-analysis-3",
+    "href": "01-reprores-slides.html#before-data-analysis-3",
+    "title": "Reproducible Research",
+    "section": "Before data analysis ",
+    "text": "Before data analysis \nData storage and organisation\n\n\nIssues: Poor data management leads to lost files, corrupted datasets, and mystery data that no one can interpret or trace back to its source\n\n\n\n\nSolutions:\n\nSave your data!\n\n\n\n\n\nRoche et al. (2014) - Troubleshooting Public Data Archiving: Suggestions to Increase Participation. PLoS Biol 12(1): e1001779. DOI: 10.1371/journal.pbio.1001779."
+  },
+  {
+    "objectID": "01-reprores-slides.html#before-data-analysis-4",
+    "href": "01-reprores-slides.html#before-data-analysis-4",
+    "title": "Reproducible Research",
+    "section": "Before data analysis ",
+    "text": "Before data analysis \nData storage and organisation\n\n\nIssues: Poor data management leads to lost files, corrupted datasets, and mystery data that no one can interpret or trace back to its source\n\n\n\n\nSolutions:\n\nSave your data!\nVersion control"
+  },
+  {
+    "objectID": "01-reprores-slides.html#before-data-analysis-5",
+    "href": "01-reprores-slides.html#before-data-analysis-5",
+    "title": "Reproducible Research",
+    "section": "Before data analysis ",
+    "text": "Before data analysis \nData storage and organisation\n\n\nIssues: Poor data management leads to lost files, corrupted datasets, and mystery data that no one can interpret or trace back to its source\n\n\n\n\nSolutions:\n\nSave your data!\nVersion control\nOrganise files, code and data\n\n\n\n\n\nArtwork by Allison Horst"
+  },
+  {
+    "objectID": "01-reprores-slides.html#before-data-analysis-6",
+    "href": "01-reprores-slides.html#before-data-analysis-6",
+    "title": "Reproducible Research",
+    "section": "Before data analysis ",
+    "text": "Before data analysis \nData storage and organisation\n\n\nIssues: Poor data management leads to lost files, corrupted datasets, and mystery data that no one can interpret or trace back to its source\n\n\n\n\nSolutions:\n\nSave your data!\nVersion control\nOrganise files, code and data\n\n\n\n\n\nArtwork by Allison Horst"
+  },
+  {
+    "objectID": "01-reprores-slides.html#before-data-analysis-7",
+    "href": "01-reprores-slides.html#before-data-analysis-7",
+    "title": "Reproducible Research",
+    "section": "Before data analysis ",
+    "text": "Before data analysis \nData storage and organisation\n\n\nIssues: Poor data management leads to lost files, corrupted datasets, and mystery data that no one can interpret or trace back to its source\n\n\n\n\nSolutions:\n\nSave your data!\nVersion control\nOrganise files, code and data\n\n\n\n\n\nArtwork by Allison Horst"
+  },
+  {
+    "objectID": "01-reprores-slides.html#before-data-analysis-8",
+    "href": "01-reprores-slides.html#before-data-analysis-8",
+    "title": "Reproducible Research",
+    "section": "Before data analysis ",
+    "text": "Before data analysis \nData storage and organisation\n\n\nIssues: Poor data management leads to lost files, corrupted datasets, and mystery data that no one can interpret or trace back to its source\n\n\n\n\nSolutions:\n\nSave your data!\nVersion control\nOrganise files, code and data\n\n\n\n\n\nIllustrations from the Openscapes blog Tidy Data for reproducibility, efficiency, and collaboration by Julia Lowndes and Allison Horst"
+  },
+  {
+    "objectID": "01-reprores-slides.html#before-data-analysis-9",
+    "href": "01-reprores-slides.html#before-data-analysis-9",
+    "title": "Reproducible Research",
+    "section": "Before data analysis ",
+    "text": "Before data analysis \nData storage and organisation\n\n\nIssues: Poor data management leads to lost files, corrupted datasets, and mystery data that no one can interpret or trace back to its source\n\n\n\n\nSolutions:\n\nSave your data!\nVersion control\nOrganise files, code and data\nMetadata, metadata and metadata\n\n\n\n\n\nZ the cat 🐱"
+  },
+  {
+    "objectID": "01-reprores-slides.html#before-data-analysis-10",
+    "href": "01-reprores-slides.html#before-data-analysis-10",
+    "title": "Reproducible Research",
+    "section": "Before data analysis ",
+    "text": "Before data analysis \nData storage and organisation\n\n\nIssues: Poor data management leads to lost files, corrupted datasets, and mystery data that no one can interpret or trace back to its source\n\n\n\n\nSolutions:\n\nSave your data!\nVersion control\nOrganise files, code and data\nMetadata, metadata and metadata\n\n\n\n\n\nZ the cat 🐱"
+  },
+  {
+    "objectID": "01-reprores-slides.html#during-data-analysis",
+    "href": "01-reprores-slides.html#during-data-analysis",
+    "title": "Reproducible Research",
+    "section": "During data analysis ",
+    "text": "During data analysis \nBest coding practices"
+  },
+  {
+    "objectID": "01-reprores-slides.html#during-data-analysis-1",
+    "href": "01-reprores-slides.html#during-data-analysis-1",
+    "title": "Reproducible Research",
+    "section": "During data analysis ",
+    "text": "During data analysis \nBest coding practices\n\n\nIssues: Without proper coding practices, analyses become error-prone, impossible to reproduce, and difficult for others (including your future self) to understand or verify"
+  },
+  {
+    "objectID": "01-reprores-slides.html#during-data-analysis-2",
+    "href": "01-reprores-slides.html#during-data-analysis-2",
+    "title": "Reproducible Research",
+    "section": "During data analysis ",
+    "text": "During data analysis \nBest coding practices\n\n\nIssues: Without proper coding practices, analyses become error-prone, impossible to reproduce, and difficult for others (including your future self) to understand or verify\n\n\n\n\nSolutions:\n\nUse reproducible environments\n\n\n\n\ne.g. renv R package for project-specific R environments\n\n\n\n\nUshey K, Wickham H (2025). renv: Project Environments. R package version 1.1.5, https://rstudio.github.io/renv/."
+  },
+  {
+    "objectID": "01-reprores-slides.html#during-data-analysis-3",
+    "href": "01-reprores-slides.html#during-data-analysis-3",
+    "title": "Reproducible Research",
+    "section": "During data analysis ",
+    "text": "During data analysis \nBest coding practices\n\n\nIssues: Without proper coding practices, analyses become error-prone, impossible to reproduce, and difficult for others (including your future self) to understand or verify\n\n\n\n\nSolutions:\n\nUse reproducible environments\nDocument your code\n\n\n\n# penguin_analysis.R\n# Author: Your Name\n# Purpose: Summarise bill length across species in `palmerpenguins` dataset\n# Date: 2025-09-22\n\n# ---- Load packages ----\nlibrary(dplyr)\nlibrary(palmerpenguins)\n\n# ---- Summarise bill length by species ----\nbill_length_summary_df &lt;- penguins |&gt;\n  group_by(species) |&gt;\n  summarise(mean_bill_length_mm = mean(bill_length_mm, na.rm = TRUE))"
+  },
+  {
+    "objectID": "01-reprores-slides.html#during-data-analysis-4",
+    "href": "01-reprores-slides.html#during-data-analysis-4",
+    "title": "Reproducible Research",
+    "section": "During data analysis ",
+    "text": "During data analysis \nBest coding practices\n\n\nIssues: Without proper coding practices, analyses become error-prone, impossible to reproduce, and difficult for others (including your future self) to understand or verify\n\n\n\n\nSolutions:\n\nUse reproducible environments\nDocument your code\n\n\n\n\n\nArtwork from “Hello, Quarto” keynote by Julia Lowndes and Mine Çetinkaya-Rundel, presented at RStudio Conference 2022. Illustrated by Allison Horst.\n\n\n\n\n\n\n“The best way to communicate from one human being to another is through story”Donald Knuth"
+  },
+  {
+    "objectID": "01-reprores-slides.html#during-data-analysis-5",
+    "href": "01-reprores-slides.html#during-data-analysis-5",
+    "title": "Reproducible Research",
+    "section": "During data analysis ",
+    "text": "During data analysis \nBest coding practices\n\n\nIssues: Without proper coding practices, analyses become error-prone, impossible to reproduce, and difficult for others (including your future self) to understand or verify\n\n\n\n\nSolutions:\n\nUse reproducible environments\nDocument your code\nHarmonise your code style\n\n\n\n\n\nArtwork by @allison_horst"
+  },
+  {
+    "objectID": "01-reprores-slides.html#during-data-analysis-6",
+    "href": "01-reprores-slides.html#during-data-analysis-6",
+    "title": "Reproducible Research",
+    "section": "During data analysis ",
+    "text": "During data analysis \nBest coding practices\n\n\nIssues: Without proper coding practices, analyses become error-prone, impossible to reproduce, and difficult for others (including your future self) to understand or verify\n\n\n\n\nSolutions:\n\nUse reproducible environments\nDocument your code\nHarmonise your code style\n\n\n\n# Variable name is way too descriptive\nmean_of_penguins_bill_length_in_millimeters_for_all_islands &lt;- mean(penguins$bill_length_mm, na.rm = TRUE)\n\n# Variable name too cryptic\nx &lt;- mean(penguins$bill_length_mm, na.rm = TRUE)\n\n# A better option\nbill_length_mean_mm &lt;- mean(penguins$bill_length_mm, na.rm = TRUE)"
+  },
+  {
+    "objectID": "01-reprores-slides.html#during-data-analysis-7",
+    "href": "01-reprores-slides.html#during-data-analysis-7",
+    "title": "Reproducible Research",
+    "section": "During data analysis ",
+    "text": "During data analysis \nBest coding practices\n\n\nIssues: Without proper coding practices, analyses become error-prone, impossible to reproduce, and difficult for others (including your future self) to understand or verify\n\n\n\n\nSolutions:\n\nUse reproducible environments\nDocument your code\nHarmonise your code style\n\n\n\n# Variable name is way too descriptive\nmean_of_penguins_bill_length_in_millimeters_for_all_islands &lt;- mean(penguins$bill_length_mm, na.rm = TRUE)\n\n# Variable name too cryptic\nx &lt;- mean(penguins$bill_length_mm, na.rm = TRUE)\n\n# A better option\nbill_length_mean_mm &lt;- mean(penguins$bill_length_mm, na.rm = TRUE)"
+  },
+  {
+    "objectID": "01-reprores-slides.html#during-data-analysis-8",
+    "href": "01-reprores-slides.html#during-data-analysis-8",
+    "title": "Reproducible Research",
+    "section": "During data analysis ",
+    "text": "During data analysis \nBest coding practices\n\n\nIssues: Without proper coding practices, analyses become error-prone, impossible to reproduce, and difficult for others (including your future self) to understand or verify\n\n\n\n\nSolutions:\n\nUse reproducible environments\nDocument your code\nHarmonise your code style\n\n\n\n# Variable name is way too descriptive\nmean_of_penguins_bill_length_in_millimeters_for_all_islands &lt;- mean(penguins$bill_length_mm, na.rm = TRUE)\n\n# Variable name too cryptic\nx &lt;- mean(penguins$bill_length_mm, na.rm = TRUE)\n\n# A better option\nbill_length_mean_mm &lt;- mean(penguins$bill_length_mm, na.rm = TRUE)"
+  },
+  {
+    "objectID": "01-reprores-slides.html#after-data-analysis",
+    "href": "01-reprores-slides.html#after-data-analysis",
+    "title": "Reproducible Research",
+    "section": "After data analysis ",
+    "text": "After data analysis \nFinalising results and sharing"
+  },
+  {
+    "objectID": "01-reprores-slides.html#after-data-analysis-1",
+    "href": "01-reprores-slides.html#after-data-analysis-1",
+    "title": "Reproducible Research",
+    "section": "After data analysis ",
+    "text": "After data analysis \nFinalising results and sharing\n\n\nIssues: Research becomes inaccessible and irreproducible when results are manually created, data is poorly archived, and materials are trapped behind paywalls or on unstable platforms"
+  },
+  {
+    "objectID": "01-reprores-slides.html#after-data-analysis-2",
+    "href": "01-reprores-slides.html#after-data-analysis-2",
+    "title": "Reproducible Research",
+    "section": "After data analysis ",
+    "text": "After data analysis \nFinalising results and sharing\n\n\nIssues: Research becomes inaccessible and irreproducible when results are manually created, data is poorly archived, and materials are trapped behind paywalls or on unstable platforms\n\n\n\n\nSolutions:\n\nProduce figures + tables with code(not by 👋)"
+  },
+  {
+    "objectID": "01-reprores-slides.html#after-data-analysis-3",
+    "href": "01-reprores-slides.html#after-data-analysis-3",
+    "title": "Reproducible Research",
+    "section": "After data analysis ",
+    "text": "After data analysis \nFinalising results and sharing\n\n\nIssues: Research becomes inaccessible and irreproducible when results are manually created, data is poorly archived, and materials are trapped behind paywalls or on unstable platforms\n\n\n\n\nSolutions:\n\nProduce figures + tables with code(not by 👋)\nShare openly (preprints, open access)"
+  },
+  {
+    "objectID": "01-reprores-slides.html#after-data-analysis-4",
+    "href": "01-reprores-slides.html#after-data-analysis-4",
+    "title": "Reproducible Research",
+    "section": "After data analysis ",
+    "text": "After data analysis \nFinalising results and sharing\n\n\nIssues: Research becomes inaccessible and irreproducible when results are manually created, data is poorly archived, and materials are trapped behind paywalls or on unstable platforms\n\n\n\n\nSolutions:\n\nProduce figures + tables with code(not by 👋)\nShare openly (preprints, open access)"
+  },
+  {
+    "objectID": "01-reprores-slides.html#take-home-messages",
+    "href": "01-reprores-slides.html#take-home-messages",
+    "title": "Reproducible Research",
+    "section": "Take-home messages",
+    "text": "Take-home messages\n\n\nReproducible research is a process, not a destination\n\n\n\n\nStart small: pick one practice and build habits\nPerfect is the enemy of good\nThe goal: better collaboration, scientific rigor, and trust in science\nTo advance, we must code a little…\n\n\n\n\n\n\n\n\n\nArtwork by Allison Horst"
+  }
+]
