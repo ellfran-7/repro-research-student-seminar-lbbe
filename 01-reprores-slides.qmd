@@ -45,16 +45,10 @@ knitr::opts_chunk$set(
 
 # Table of Contents
 
--   [A bit about me](#me)
 -   [Introduction to RR](#intro_to_rr)
 -   [Factors limiting reproducibility](#sources-nr)
 -   [How can we be a bit more reproducible?](#steps-4-repro)
 
-# A bit about me {#me style="text-align: center;"}
-
-<br/> 
-
-![](images/logos-text-me.png){fig-align="center" height="400"}
 
 ## <br/><br/><br/><br/> How many here have had trouble reproducing<br />your own or someone else's work? :thinking: {style="text-align: center;"}
 
@@ -169,7 +163,7 @@ Reproducible Research
 :::
 ::::::
 
-## Why are we talking about this now?
+## Why are we talking about this more and more?
 
 <!-- We need to have confidence that our research is good quality and we are doing good science. -->
 
@@ -247,6 +241,78 @@ Reproducible research skills are highly sought after in careers like data scienc
 ![Baker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454 (2016). DOI: [10.1038/533452a](https://doi.org/10.1038/533452a).](images/nature-factors-irrepro.png){.lightbox fig-align="center"}
 :::
 :::::
+
+
+## Example: a drawing protocol {auto-animate="true"}
+
+::: fragment
+**You really want to draw something but don't know how. You've found this protocol in a very prestigious journal and want to reproduce it. Grab your pens and papers :pencil: !**
+:::
+
+:::::: fragment
+<div>
+
+<button class="switch-btn" onclick="toggleLanguage()">
+
+Switch Language
+
+</button>
+
+::: {#english .language .no-margin-top .green-border}
+1.  Draw a large circle in the center of your page.
+2.  Inside the circle, slightly above the middle, draw two medium-sized ovals next to each other. Inside each oval, draw a smaller filled-in oval.
+3.  Below the ovals, in the center of the circle, draw a small upside-down triangle.
+4.  On top of the circle, draw two small triangles with the base of each triangle touching the edge of the circle and the points facing outward.
+5.  From the bottom point of the triangle, draw two curved lines that extend outward, one curving to the left and one to the right, forming a “W” shape.
+6.  On each side of the curved lines, draw three short straight lines extending outward.
+:::
+
+::: {#french .language .no-margin-top .green-border style="display:none;"}
+1.  Dessinez un grand cercle au centre de votre page.
+2.  À l'intérieur du cercle, légèrement au-dessus du milieu, dessinez deux ovales de taille moyenne côte à côte. À l'intérieur de chaque ovale, dessinez un petit ovale rempli.
+3.  Sous les ovales, au centre du cercle, dessinez un petit triangle inversé.
+4.  Au-dessus du cercle, dessinez deux petits triangles avec la base de chaque triangle touchant le bord du cercle et les pointes dirigées vers l'extérieur.
+5.  À partir de la pointe inférieure du triangle, dessinez deux lignes courbées qui s'étendent vers l'extérieur, l'une courbant vers la gauche et l'autre vers la droite, formant une forme en "W".
+6.  De chaque côté des lignes courbées, dessinez trois petites lignes droites qui s'étendent vers l'extérieur.
+:::
+
+</div>
+
+<script>
+function toggleLanguage() {
+  var english = document.getElementById("english");
+  var french = document.getElementById("french");
+  if (english.style.display === "none") {
+    english.style.display = "block";
+    french.style.display = "none";
+  } else {
+    english.style.display = "none";
+    french.style.display = "block";
+  }
+}
+</script>
+::::::
+
+::: aside
+<div style="font-size: 75%">
+Inspired by [Repro4Everyone. (n.d.). Introduction to Reproducibility. Repro4Everyone. Retrieved January 30, 2025.](https://www.repro4everyone.org/resources/intro-reproducibility)
+</div>
+:::
+
+## Example: a drawing protocol {auto-animate="true"}
+
+::::: {layout="[10, -2, 10]" layout-valign="bottom"}
+::: fragment
+![My attempt](images/cat-ellis-drawing.jpg){width="75%"}
+:::
+
+::: fragment
+![The result in the study](images/cat-good-drawing.png){width="70%"}
+:::
+:::::
+
+[How did you do?]{style="text-align: center; display: block;"}
+
 
 ## Factors limiting reproducibility {auto-animate="\"true"}
 
