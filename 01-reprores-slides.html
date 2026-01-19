@@ -209,25 +209,14 @@ Ellis Franklin
 
   <p class="date">September 22, 2025</p>
 </section>
+<section>
 <section id="table-of-contents" class="title-slide slide level1 center">
 <h1>Table of Contents</h1>
 <ul>
-<li><a href="#/me">A bit about me</a></li>
 <li><a href="#/intro_to_rr">Introduction to RR</a></li>
 <li><a href="#/sources-nr">Factors limiting reproducibility</a></li>
 <li><a href="#/steps-4-repro">How can we be a bit more reproducible?</a></li>
 </ul>
-</section>
-
-<section>
-<section id="me" class="title-slide slide level1 center" style="text-align: center;">
-<h1>A bit about me</h1>
-<p><br></p>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/logos-text-me.png" class="quarto-figure quarto-figure-center" height="400"></p>
-</figure>
-</div>
 </section>
 <section id="how-many-here-have-had-trouble-reproducing-your-own-or-someone-elses-work" class="slide level2" style="text-align: center;">
 <h2><br><br><br><br> How many here have had trouble reproducing<br>your own or someone else’s work? <span class="emoji" data-emoji="thinking">🤔</span></h2>
@@ -343,8 +332,8 @@ The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia He
 </div>
 </div>
 </section>
-<section id="why-are-we-talking-about-this-now" class="slide level2">
-<h2>Why are we talking about this now?</h2>
+<section id="why-are-we-talking-about-this-more-and-more" class="slide level2">
+<h2>Why are we talking about this more and more?</h2>
 <!-- We need to have confidence that our research is good quality and we are doing good science. -->
 <div class="columns">
 <div class="column" style="width:50%;">
@@ -433,6 +422,87 @@ Reproducible research skills are highly sought after in careers like data scienc
 </figure>
 </div>
 </div></div>
+</section>
+<section id="example-a-drawing-protocol" class="slide level2" data-auto-animate="true">
+<h2 data-id="quarto-animate-title">Example: a drawing protocol</h2>
+<div class="fragment">
+<p><strong>You really want to draw something but don’t know how. You’ve found this protocol in a very prestigious journal and want to reproduce it. Grab your pens and papers <span class="emoji" data-emoji="pencil">📝</span> !</strong></p>
+</div>
+<div class="fragment">
+<div>
+<button class="switch-btn" onclick="toggleLanguage()">
+<p>Switch Language</p>
+</button>
+<div id="english" class="language no-margin-top green-border">
+<ol type="1">
+<li>Draw a large circle in the center of your page.</li>
+<li>Inside the circle, slightly above the middle, draw two medium-sized ovals next to each other. Inside each oval, draw a smaller filled-in oval.</li>
+<li>Below the ovals, in the center of the circle, draw a small upside-down triangle.</li>
+<li>On top of the circle, draw two small triangles with the base of each triangle touching the edge of the circle and the points facing outward.</li>
+<li>From the bottom point of the triangle, draw two curved lines that extend outward, one curving to the left and one to the right, forming a “W” shape.</li>
+<li>On each side of the curved lines, draw three short straight lines extending outward.</li>
+</ol>
+</div>
+<div id="french" class="language no-margin-top green-border" style="display:none;">
+<ol type="1">
+<li>Dessinez un grand cercle au centre de votre page.</li>
+<li>À l’intérieur du cercle, légèrement au-dessus du milieu, dessinez deux ovales de taille moyenne côte à côte. À l’intérieur de chaque ovale, dessinez un petit ovale rempli.</li>
+<li>Sous les ovales, au centre du cercle, dessinez un petit triangle inversé.</li>
+<li>Au-dessus du cercle, dessinez deux petits triangles avec la base de chaque triangle touchant le bord du cercle et les pointes dirigées vers l’extérieur.</li>
+<li>À partir de la pointe inférieure du triangle, dessinez deux lignes courbées qui s’étendent vers l’extérieur, l’une courbant vers la gauche et l’autre vers la droite, formant une forme en “W”.</li>
+<li>De chaque côté des lignes courbées, dessinez trois petites lignes droites qui s’étendent vers l’extérieur.</li>
+</ol>
+</div>
+</div>
+<script>
+function toggleLanguage() {
+  var english = document.getElementById("english");
+  var french = document.getElementById("french");
+  if (english.style.display === "none") {
+    english.style.display = "block";
+    french.style.display = "none";
+  } else {
+    english.style.display = "none";
+    french.style.display = "block";
+  }
+}
+</script>
+</div>
+
+<aside><div>
+<div style="font-size: 75%">
+<p>Inspired by <a href="https://www.repro4everyone.org/resources/intro-reproducibility">Repro4Everyone. (n.d.). Introduction to Reproducibility. Repro4Everyone. Retrieved January 30, 2025.</a></p>
+</div>
+</div></aside></section>
+<section id="example-a-drawing-protocol-1" class="slide level2" data-auto-animate="true">
+<h2 data-id="quarto-animate-title">Example: a drawing protocol</h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[10, -2, 10]">
+<div class="quarto-layout-row quarto-layout-valign-bottom">
+<div class="fragment quarto-layout-cell" style="flex-basis: 45.5%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/cat-ellis-drawing.jpg" style="width:75.0%"></p>
+<figcaption>My attempt</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-figure-spacer quarto-layout-cell" style="flex-basis: 9.1%;justify-content: flex-start;">
+<p>&nbsp;</p>
+</div>
+<div class="fragment quarto-layout-cell" style="flex-basis: 45.5%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/cat-good-drawing.png" style="width:70.0%"></p>
+<figcaption>The result in the study</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<p><span style="text-align: center; display: block;">How did you do?</span></p>
 </section>
 <section id="factors-limiting-reproducibility-1" class="slide level2" data-auto-animate="&quot;true">
 <h2 data-id="quarto-animate-title">Factors limiting reproducibility</h2>
@@ -771,7 +841,7 @@ Reproducible research skills are highly sought after in careers like data scienc
 <li>Document your code</li>
 </ul>
 </div><div class="column" style="width:50%;">
-<div class="cell" data-layout-align="center">
+<div class="cell">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode numberSource r number-lines code-with-copy" data-id="quarto-animate-code"><code class="sourceCode r hljs"><span id="cb1-1" class="hljs-ln-code"><a></a><span class="co"># penguin_analysis.R</span></span>
 <span id="cb1-2" class="hljs-ln-code"><a></a><span class="co"># Author: Your Name</span></span>
 <span id="cb1-3" class="hljs-ln-code"><a></a><span class="co"># Purpose: Summarise bill length across species in `palmerpenguins` dataset</span></span>
@@ -861,7 +931,7 @@ Reproducible research skills are highly sought after in careers like data scienc
 <li>Harmonise your code style</li>
 </ul>
 </div><div class="column" style="width:50%;">
-<div class="cell" data-layout-align="center">
+<div class="cell">
 <div class="sourceCode cell-code" id="cb2" data-code-line-numbers="1-2"><pre class="sourceCode numberSource r number-lines code-with-copy" data-id="quarto-animate-code"><code class="sourceCode r hljs"><span id="cb2-1" class="hljs-ln-code"><a></a><span class="co"># Variable name is way too descriptive</span></span>
 <span id="cb2-2" class="hljs-ln-code"><a></a>mean_of_penguins_bill_length_in_millimeters_for_all_islands <span class="ot">&lt;-</span> <span class="fu">mean</span>(penguins<span class="sc">$</span>bill_length_mm, <span class="at">na.rm =</span> <span class="cn">TRUE</span>)</span>
 <span id="cb2-3" class="hljs-ln-code"><a></a></span>
@@ -891,7 +961,7 @@ Reproducible research skills are highly sought after in careers like data scienc
 <li>Harmonise your code style</li>
 </ul>
 </div><div class="column" style="width:50%;">
-<div class="cell" data-layout-align="center">
+<div class="cell">
 <div class="sourceCode cell-code" id="cb3" data-code-line-numbers="5-6"><pre class="sourceCode numberSource r number-lines code-with-copy" data-id="quarto-animate-code"><code class="sourceCode r hljs"><span id="cb3-1" class="hljs-ln-code"><a></a><span class="co"># Variable name is way too descriptive</span></span>
 <span id="cb3-2" class="hljs-ln-code"><a></a>mean_of_penguins_bill_length_in_millimeters_for_all_islands <span class="ot">&lt;-</span> <span class="fu">mean</span>(penguins<span class="sc">$</span>bill_length_mm, <span class="at">na.rm =</span> <span class="cn">TRUE</span>)</span>
 <span id="cb3-3" class="hljs-ln-code"><a></a></span>
@@ -921,7 +991,7 @@ Reproducible research skills are highly sought after in careers like data scienc
 <li>Harmonise your code style</li>
 </ul>
 </div><div class="column" style="width:50%;">
-<div class="cell" data-layout-align="center">
+<div class="cell">
 <div class="sourceCode cell-code" id="cb4" data-code-line-numbers="8-9"><pre class="sourceCode numberSource r number-lines code-with-copy" data-id="quarto-animate-code"><code class="sourceCode r hljs"><span id="cb4-1" class="hljs-ln-code"><a></a><span class="co"># Variable name is way too descriptive</span></span>
 <span id="cb4-2" class="hljs-ln-code"><a></a>mean_of_penguins_bill_length_in_millimeters_for_all_islands <span class="ot">&lt;-</span> <span class="fu">mean</span>(penguins<span class="sc">$</span>bill_length_mm, <span class="at">na.rm =</span> <span class="cn">TRUE</span>)</span>
 <span id="cb4-3" class="hljs-ln-code"><a></a></span>

@@ -119,11 +119,11 @@
     "text": "In other words…\n \n\n\n\n\n\n\n\n\nReproducible Research"
   },
   {
-    "objectID": "01-reprores-slides.html#why-are-we-talking-about-this-now",
-    "href": "01-reprores-slides.html#why-are-we-talking-about-this-now",
+    "objectID": "01-reprores-slides.html#why-are-we-talking-about-this-more-and-more",
+    "href": "01-reprores-slides.html#why-are-we-talking-about-this-more-and-more",
     "title": "Reproducible Research",
-    "section": "Why are we talking about this now?",
-    "text": "Why are we talking about this now?\n\n\n\n\n\n\n\n\n\n\nBaker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454 (2016). DOI: 10.1038/533452a.\n\n\n\n\n\n\n70% of researchers can’t reproduce others’ findings\n60% can’t reproduce their own findings\nNon-reproducible biomedical research costs $28 billion/year(Freedman et al. 2015)"
+    "section": "Why are we talking about this more and more?",
+    "text": "Why are we talking about this more and more?\n\n\n\n\n\n\n\n\n\n\nBaker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454 (2016). DOI: 10.1038/533452a.\n\n\n\n\n\n\n70% of researchers can’t reproduce others’ findings\n60% can’t reproduce their own findings\nNon-reproducible biomedical research costs $28 billion/year(Freedman et al. 2015)"
   },
   {
     "objectID": "01-reprores-slides.html#how-important-is-it-well-quite-important",
@@ -152,6 +152,20 @@
     "title": "Reproducible Research",
     "section": "Factors limiting reproducibility",
     "text": "Factors limiting reproducibility\n\n\n  \n\nFailures of reproducibility cannot be traced to a single cause\nNearly every aspect of a study needs to be considered– from conception to publication\n\n\n\n\n\n\n\n\n\nBaker, M. 1,500 scientists lift the lid on reproducibility. Nature 533, 452–454 (2016). DOI: 10.1038/533452a."
+  },
+  {
+    "objectID": "01-reprores-slides.html#example-a-drawing-protocol",
+    "href": "01-reprores-slides.html#example-a-drawing-protocol",
+    "title": "Reproducible Research",
+    "section": "Example: a drawing protocol",
+    "text": "Example: a drawing protocol\n\nYou really want to draw something but don’t know how. You’ve found this protocol in a very prestigious journal and want to reproduce it. Grab your pens and papers 📝 !\n\n\n\n\nSwitch Language\n\n\n\nDraw a large circle in the center of your page.\nInside the circle, slightly above the middle, draw two medium-sized ovals next to each other. Inside each oval, draw a smaller filled-in oval.\nBelow the ovals, in the center of the circle, draw a small upside-down triangle.\nOn top of the circle, draw two small triangles with the base of each triangle touching the edge of the circle and the points facing outward.\nFrom the bottom point of the triangle, draw two curved lines that extend outward, one curving to the left and one to the right, forming a “W” shape.\nOn each side of the curved lines, draw three short straight lines extending outward.\n\n\n\n\nDessinez un grand cercle au centre de votre page.\nÀ l’intérieur du cercle, légèrement au-dessus du milieu, dessinez deux ovales de taille moyenne côte à côte. À l’intérieur de chaque ovale, dessinez un petit ovale rempli.\nSous les ovales, au centre du cercle, dessinez un petit triangle inversé.\nAu-dessus du cercle, dessinez deux petits triangles avec la base de chaque triangle touchant le bord du cercle et les pointes dirigées vers l’extérieur.\nÀ partir de la pointe inférieure du triangle, dessinez deux lignes courbées qui s’étendent vers l’extérieur, l’une courbant vers la gauche et l’autre vers la droite, formant une forme en “W”.\nDe chaque côté des lignes courbées, dessinez trois petites lignes droites qui s’étendent vers l’extérieur.\n\n\n\n\n\n\n\n\nInspired by Repro4Everyone. (n.d.). Introduction to Reproducibility. Repro4Everyone. Retrieved January 30, 2025."
+  },
+  {
+    "objectID": "01-reprores-slides.html#example-a-drawing-protocol-1",
+    "href": "01-reprores-slides.html#example-a-drawing-protocol-1",
+    "title": "Reproducible Research",
+    "section": "Example: a drawing protocol",
+    "text": "Example: a drawing protocol\n\n\n\n\n\n\n\n\n\nMy attempt\n\n\n\n\n \n\n\n\n\n\nThe result in the study\n\n\n\n\n\nHow did you do?"
   },
   {
     "objectID": "01-reprores-slides.html#factors-limiting-reproducibility-1",
