@@ -22,7 +22,7 @@ website:
     tools:
       - icon: github
         text: Source Code
-        href: https://github.com/ellfran-7/repro-research-presentation
+        href: https://github.com/ellfran-7/repro-research-student-seminar-lbbe
   page-footer: 
     left: "© Ellis Franklin, 2026."
     right: "Made with 💚 and Quarto"
