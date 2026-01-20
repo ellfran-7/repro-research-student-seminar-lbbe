@@ -8,7 +8,7 @@ title: "Reproducible Research"
 subtitle: "Every little helps"
 author:
   - name: "Ellis Franklin"
-date: "2025-09-22"
+date: "2026-01-21"
 date-format: long
 format:
   revealjs:
@@ -246,7 +246,7 @@ Reproducible research skills are highly sought after in careers like data scienc
 ## Example: a drawing protocol {auto-animate="true"}
 
 ::: fragment
-**You really want to draw something but don't know how. You've found this protocol in a very prestigious journal and want to reproduce it. Grab your pens and papers :pencil: !**
+**You really want to draw something but don't know how. You find this protocol in a very prestigious journal and want to reproduce it. Grab your pens and papers :pencil: !**
 :::
 
 :::::: fragment
@@ -259,22 +259,28 @@ Switch Language
 </button>
 
 ::: {#english .language .no-margin-top .green-border}
-1.  Draw a large circle in the center of your page.
-2.  Inside the circle, slightly above the middle, draw two medium-sized ovals next to each other. Inside each oval, draw a smaller filled-in oval.
-3.  Below the ovals, in the center of the circle, draw a small upside-down triangle.
-4.  On top of the circle, draw two small triangles with the base of each triangle touching the edge of the circle and the points facing outward.
-5.  From the bottom point of the triangle, draw two curved lines that extend outward, one curving to the left and one to the right, forming a “W” shape.
-6.  On each side of the curved lines, draw three short straight lines extending outward.
+1.  Draw a medium sized oval in the center of the page.
+2.  Draw a second oval inside the first one. It should be similar in shape, but smaller.
+3.  Near the top of the larger oval, draw two small circles, one on the left and one on the right.
+4.  Inside each circle, draw a smaller filled-in circle.
+5.  Between and slightly below the circles, draw a triangle.
+6.  Above the circles, draw several thin lines on each side. The lines should go outward and a little upward.
+7.  On the left and right sides of the body, draw one curved shape on each side.
+8.  At the bottom of the oval, draw two small shapes touching the body.
 :::
 
+
 ::: {#french .language .no-margin-top .green-border style="display:none;"}
-1.  Dessinez un grand cercle au centre de votre page.
-2.  À l'intérieur du cercle, légèrement au-dessus du milieu, dessinez deux ovales de taille moyenne côte à côte. À l'intérieur de chaque ovale, dessinez un petit ovale rempli.
-3.  Sous les ovales, au centre du cercle, dessinez un petit triangle inversé.
-4.  Au-dessus du cercle, dessinez deux petits triangles avec la base de chaque triangle touchant le bord du cercle et les pointes dirigées vers l'extérieur.
-5.  À partir de la pointe inférieure du triangle, dessinez deux lignes courbées qui s'étendent vers l'extérieur, l'une courbant vers la gauche et l'autre vers la droite, formant une forme en "W".
-6.  De chaque côté des lignes courbées, dessinez trois petites lignes droites qui s'étendent vers l'extérieur.
+1.  Dessinez un ovale de taille moyenne au centre de la page.
+2.  Dessinez un deuxième ovale à l'intérieur du premier. Il doit être de forme similaire, mais plus petit.
+3.  Près du sommet du plus grand ovale, dessinez deux petits cercles, un à gauche et un à droite.
+4.  À l'intérieur de chaque cercle, dessinez un cercle plus petit rempli.
+5.  Entre les cercles et légèrement en dessous, dessinez un triangle.
+6.  Au-dessus des cercles, tracez plusieurs lignes fines de chaque côté. Les lignes doivent aller vers l'extérieur et légèrement vers le haut.
+7.  Sur les côtés gauche et droit du corps, dessinez une forme courbée de chaque côté.
+8.  Au bas de l'ovale, dessinez deux petites formes touchant le corps.
 :::
+
 
 </div>
 
@@ -303,11 +309,11 @@ Inspired by [Repro4Everyone. (n.d.). Introduction to Reproducibility. Repro4Ever
 
 ::::: {layout="[10, -2, 10]" layout-valign="bottom"}
 ::: fragment
-![My attempt](images/cat-ellis-drawing.jpg){width="75%"}
+![My attempt](images/rockhopper-good-drawing.jpg){width="75%"}
 :::
 
 ::: fragment
-![The result in the study](images/cat-good-drawing.png){width="70%"}
+![The result in the study](images/rockhopper-good-drawing.jpg){width="70%"}
 :::
 :::::
 
