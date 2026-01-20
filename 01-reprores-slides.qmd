@@ -309,11 +309,11 @@ Inspired by [Repro4Everyone. (n.d.). Introduction to Reproducibility. Repro4Ever
 
 ::::: {layout="[10, -2, 10]" layout-valign="bottom"}
 ::: fragment
-![My attempt](images/rockhopper-good-drawing.jpg){width="70%"}
+![My attempt](images/rockhopper-my-drawing.jpg){width="70%"}
 :::
 
 ::: fragment
-![The result in the study (Author: Gennadiy Lukaynenko)](images/rockhopper-good-drawing.jpg){width="70%"}
+![The result in the study (© Gennadiy Lukaynenko)](images/rockhopper-good-drawing.jpg){width="70%"}
 :::
 :::::
 
