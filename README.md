@@ -10,7 +10,7 @@
 
 ## Background of the presentation
 
-This presentation was designed for a weekly student seminar series at the [LBBE](https://lbbe.univ-lyon1.fr/fr) laboratory, organised by the Student Seminar team (most members of which are part of [Les Pinsons Migrateurs](https://lbbe.univ-lyon1.fr/en/les-pinsons-migrateurs). It originates from discussions with many of my fellow colleagues about reproducible research—its *whys* and *hows*—and from the observation that a seminar on this topic has strong potential to spark rich and meaningful discussions.
+This presentation was designed for a weekly student seminar series at the [LBBE](https://lbbe.univ-lyon1.fr/fr) laboratory, organised by the Student Seminar team (most members of which are part of [Les Pinsons Migrateurs](https://lbbe.univ-lyon1.fr/en/les-pinsons-migrateurs)). It originates from discussions with many of my fellow colleagues about reproducible research—its *whys* and *hows*—and from the observation that a seminar on this topic has strong potential to spark rich and meaningful discussions.
 
 This seminar is a fusion of two earlier contributions: my very first hands-on workshop held in February 2025 for the [LIEC](https://www.liec.univ-lorraine.fr/) (Metz), and a previous presentation given in September 2025 for the [LEHNA](https://umr5023.univ-lyon1.fr/) (Lyon). You can explore the full materials and corresponding websites here: [workshop](https://ellfran-7.github.io/repro-research-workshop/) and [presentation](https://ellfran-7.github.io/repro-research-presentation/).
 
