@@ -62,7 +62,7 @@ knitr::opts_chunk$set(
 
 [The results](https://app.wooclap.com/events/EAONYN/questions/68ca77353e150834b6ff7157)
 
-## What does reproducibility mean actually? {auto-animate="true"}
+## What does **reproducibility** mean actually? {auto-animate="true"}
 
 :::::: columns
 :::: {.column width="50%"}
@@ -79,7 +79,7 @@ knitr::opts_chunk$set(
 :::
 ::::::
 
-## What does reproducibility mean actually? {auto-animate="true"}
+## What does **reproducibility** mean actually? {auto-animate="true"}
 
 ::::: columns
 ::: {.column width="50%"}
@@ -95,7 +95,29 @@ knitr::opts_chunk$set(
 :::
 :::::
 
-## What does reproducibility mean actually? {auto-animate="true"}
+
+## What does **reproducibility** mean actually? {auto-animate="true"}
+
+<br/>
+
+
+[The ability of independent investigators to draw the **same conclusions** from an study by following the **documentation shared by the original investigators**.]{style="text-align: center; display: block;"}
+
+
+<br/> <br/> <br/> <br/> <br/>
+
+
+::: aside
+<ul style="list-style: none; font-size: 75%">
+
+<li>Schloss, 2018. DOI: [10.1128/mbio.00525-18](https://doi.org/10.1128/mbio.00525-18)</li>
+
+<li>The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. [10.5281/zenodo.3233986](http://doi.org/10.5281/zenodo.3233986)</li>
+
+</ul>
+:::
+
+## What does **reproducibility** mean actually? {auto-animate="true"}
 
 <br/>
 
@@ -114,9 +136,9 @@ Other related terms to distinguish:
 :::
 
 ::: fragment
--   **Replicability**: *Different data* \| Same analysis methods
--   **Robustness**: Same data \| *Different analysis methods*
--   **Generalisability**: Different data \| *Different analysis methods*
+-   **Replicability**: *Different data* \| Same methods
+-   **Robustness**: Same data \| *Different methods*
+-   **Generalisability**: Different data \| *Different methods*
 :::
 
 ::: aside
