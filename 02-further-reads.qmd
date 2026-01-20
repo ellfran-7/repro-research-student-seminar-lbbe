@@ -2,7 +2,7 @@
 title: "Further reading"
 author:
   - name: "Ellis Franklin"
-date: "2025-09-22"
+date: "2026-01-21"
 date-format: long
 number-sections: true
 number-depth: 2

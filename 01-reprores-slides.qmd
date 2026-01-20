@@ -17,7 +17,7 @@ format:
     code-copy: true
     width: 1600
     height: 900
-    footer: "Seminar Sep  2025 | [Home page](https://ellfran-7.github.io/repro-research-presentation)"
+    footer: "Seminar Jan  2026 | [Home page](https://ellfran-7.github.io/repro-research-presentation)"
     transition: slide
     background-transition: fade
     auto-animate-easing: ease-in-out
@@ -50,7 +50,7 @@ knitr::opts_chunk$set(
 -   [How can we be a bit more reproducible?](#steps-4-repro)
 
 
-## <br/><br/><br/><br/> How many here have had trouble reproducing<br />your own or someone else's work? :thinking: {style="text-align: center;"}
+## <br/><br/><br/><br/> Who here has ever had trouble redoing<br />**their own** or **someone else's work**? :thinking: {style="text-align: center;"}
 
 # Introduction to RR {#intro_to_rr}
 
@@ -259,26 +259,27 @@ Switch Language
 </button>
 
 ::: {#english .language .no-margin-top .green-border}
-1.  Draw a medium sized oval in the center of the page.
+1.  Draw a medium-sized oval in the center of the page.
 2.  Draw a second oval inside the first one. It should be similar in shape, but smaller.
 3.  Near the top of the larger oval, draw two small circles, one on the left and one on the right.
 4.  Inside each circle, draw a smaller filled-in circle.
 5.  Between and slightly below the circles, draw a triangle.
-6.  Above the circles, draw several thin lines on each side. The lines should go outward and a little upward.
-7.  On the left and right sides of the body, draw one curved shape on each side.
+6.  Above the circles, draw several thin lines on each side. The lines should go outward.
+7.  On the both the left and right side of the body, draw a long curved shape, extending outward from the body.
 8.  At the bottom of the oval, draw two small shapes touching the body.
 :::
 
 
 ::: {#french .language .no-margin-top .green-border style="display:none;"}
 1.  Dessinez un ovale de taille moyenne au centre de la page.
-2.  Dessinez un deuxième ovale à l'intérieur du premier. Il doit être de forme similaire, mais plus petit.
+2.  Dessinez un deuxième ovale à l’intérieur du premier. Il doit être de forme similaire, mais plus petit.
 3.  Près du sommet du plus grand ovale, dessinez deux petits cercles, un à gauche et un à droite.
-4.  À l'intérieur de chaque cercle, dessinez un cercle plus petit rempli.
+4.  À l’intérieur de chaque cercle, dessinez un cercle plus petit plein.
 5.  Entre les cercles et légèrement en dessous, dessinez un triangle.
-6.  Au-dessus des cercles, tracez plusieurs lignes fines de chaque côté. Les lignes doivent aller vers l'extérieur et légèrement vers le haut.
-7.  Sur les côtés gauche et droit du corps, dessinez une forme courbée de chaque côté.
-8.  Au bas de l'ovale, dessinez deux petites formes touchant le corps.
+6.  Au-dessus des cercles, tracez plusieurs lignes fines de chaque côté. Les lignes doivent aller vers l’extérieur.
+7.  Sur les deux côtés du corps, dessinez une longue forme courbée, qui s’étend vers l’extérieur.
+8.  En bas de l’ovale, dessinez deux petites formes touchant le corps.
+
 :::
 
 
@@ -313,11 +314,18 @@ Inspired by [Repro4Everyone. (n.d.). Introduction to Reproducibility. Repro4Ever
 :::
 
 ::: fragment
-![The result in the study (© Gennadiy Lukaynenko)](images/rockhopper-good-drawing.jpg){width="70%"}
+![The result in the study](images/rockhopper-good-drawing.jpg){width="70%"}
 :::
 :::::
 
 [How did you do?]{style="text-align: center; display: block;"}
+
+
+::: aside
+<div style="font-size: 75%">
+Drawing by Gennadiy Lukaynenko, CC BY 4.0.
+</div>
+:::
 
 
 ## Factors limiting reproducibility {auto-animate="\"true"}

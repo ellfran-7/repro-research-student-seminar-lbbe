@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
-date: last-modified
+date: "2026-01-21"
 date-format: long
 number-sections: false
 from: markdown+emoji
