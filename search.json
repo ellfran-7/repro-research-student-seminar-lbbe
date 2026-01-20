@@ -70,11 +70,11 @@
     "text": "Licence\nExcept where otherwise noted, this work is licensed under a Creative Commons Attribution 4.0 International License."
   },
   {
-    "objectID": "01-reprores-slides.html#how-many-here-have-had-trouble-reproducing-your-own-or-someone-elses-work",
-    "href": "01-reprores-slides.html#how-many-here-have-had-trouble-reproducing-your-own-or-someone-elses-work",
+    "objectID": "01-reprores-slides.html#who-here-has-ever-had-trouble-redoing-their-own-or-someone-elses-work",
+    "href": "01-reprores-slides.html#who-here-has-ever-had-trouble-redoing-their-own-or-someone-elses-work",
     "title": "Reproducible Research",
-    "section": " How many here have had trouble reproducingyour own or someone else’s work? 🤔",
-    "text": "How many here have had trouble reproducingyour own or someone else’s work? 🤔"
+    "section": " Who here has ever had trouble redoingtheir own or someone else’s work? 🤔",
+    "text": "Who here has ever had trouble redoingtheir own or someone else’s work? 🤔"
   },
   {
     "objectID": "01-reprores-slides.html#what-should-be-kept-the-same-when-reproducing-a-study",
@@ -158,14 +158,14 @@
     "href": "01-reprores-slides.html#example-a-drawing-protocol",
     "title": "Reproducible Research",
     "section": "Example: a drawing protocol",
-    "text": "Example: a drawing protocol\n\nYou really want to draw something but don’t know how. You’ve found this protocol in a very prestigious journal and want to reproduce it. Grab your pens and papers 📝 !\n\n\n\n\nSwitch Language\n\n\n\nDraw a large circle in the center of your page.\nInside the circle, slightly above the middle, draw two medium-sized ovals next to each other. Inside each oval, draw a smaller filled-in oval.\nBelow the ovals, in the center of the circle, draw a small upside-down triangle.\nOn top of the circle, draw two small triangles with the base of each triangle touching the edge of the circle and the points facing outward.\nFrom the bottom point of the triangle, draw two curved lines that extend outward, one curving to the left and one to the right, forming a “W” shape.\nOn each side of the curved lines, draw three short straight lines extending outward.\n\n\n\n\nDessinez un grand cercle au centre de votre page.\nÀ l’intérieur du cercle, légèrement au-dessus du milieu, dessinez deux ovales de taille moyenne côte à côte. À l’intérieur de chaque ovale, dessinez un petit ovale rempli.\nSous les ovales, au centre du cercle, dessinez un petit triangle inversé.\nAu-dessus du cercle, dessinez deux petits triangles avec la base de chaque triangle touchant le bord du cercle et les pointes dirigées vers l’extérieur.\nÀ partir de la pointe inférieure du triangle, dessinez deux lignes courbées qui s’étendent vers l’extérieur, l’une courbant vers la gauche et l’autre vers la droite, formant une forme en “W”.\nDe chaque côté des lignes courbées, dessinez trois petites lignes droites qui s’étendent vers l’extérieur.\n\n\n\n\n\n\n\n\nInspired by Repro4Everyone. (n.d.). Introduction to Reproducibility. Repro4Everyone. Retrieved January 30, 2025."
+    "text": "Example: a drawing protocol\n\nYou really want to draw something but don’t know how. You find this protocol in a very prestigious journal and want to reproduce it. Grab your pens and papers 📝 !\n\n\n\n\nSwitch Language\n\n\n\nDraw a medium-sized oval in the center of the page.\nDraw a second oval inside the first one. It should be similar in shape, but smaller.\nNear the top of the larger oval, draw two small circles, one on the left and one on the right.\nInside each circle, draw a smaller filled-in circle.\nBetween and slightly below the circles, draw a triangle.\nAbove the circles, draw several thin lines on each side. The lines should go outward.\nOn the both the left and right side of the body, draw a long curved shape, extending outward from the body.\nAt the bottom of the oval, draw two small shapes touching the body.\n\n\n\n\nDessinez un ovale de taille moyenne au centre de la page.\nDessinez un deuxième ovale à l’intérieur du premier. Il doit être de forme similaire, mais plus petit.\nPrès du sommet du plus grand ovale, dessinez deux petits cercles, un à gauche et un à droite.\nÀ l’intérieur de chaque cercle, dessinez un cercle plus petit plein.\nEntre les cercles et légèrement en dessous, dessinez un triangle.\nAu-dessus des cercles, tracez plusieurs lignes fines de chaque côté. Les lignes doivent aller vers l’extérieur.\nSur les deux côtés du corps, dessinez une longue forme courbée, qui s’étend vers l’extérieur.\nEn bas de l’ovale, dessinez deux petites formes touchant le corps.\n\n\n\n\n\n\n\n\nInspired by Repro4Everyone. (n.d.). Introduction to Reproducibility. Repro4Everyone. Retrieved January 30, 2025."
   },
   {
     "objectID": "01-reprores-slides.html#example-a-drawing-protocol-1",
     "href": "01-reprores-slides.html#example-a-drawing-protocol-1",
     "title": "Reproducible Research",
     "section": "Example: a drawing protocol",
-    "text": "Example: a drawing protocol\n\n\n\n\n\n\n\n\n\nMy attempt\n\n\n\n\n \n\n\n\n\n\nThe result in the study\n\n\n\n\n\nHow did you do?"
+    "text": "Example: a drawing protocol\n\n\n\n\n\n\n\n\n\nMy attempt\n\n\n\n\n \n\n\n\n\n\nThe result in the study\n\n\n\n\n\nHow did you do?\n\n\n\nDrawing by Gennadiy Lukaynenko, CC BY 4.0."
   },
   {
     "objectID": "01-reprores-slides.html#factors-limiting-reproducibility-1",
