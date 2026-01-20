@@ -102,7 +102,14 @@
     "href": "01-reprores-slides.html#what-does-reproducibility-mean-actually-2",
     "title": "Reproducible Research",
     "section": "What does reproducibility mean actually?",
-    "text": "What does reproducibility mean actually?\n\n\n\nDirect reproducibility (also called experimental reproducibility) 🧪\n\n\n\n\nAnalytical reproducibility (also called computational reproducibility) 💻\n\n\n\n\nOther related terms to distinguish:\n\n\n\nReplicability: Different data | Same analysis methods\nRobustness: Same data | Different analysis methods\nGeneralisability: Different data | Different analysis methods\n\n\n\n\n\n\nSchloss, 2018. DOI: 10.1128/mbio.00525-18\n\n\nThe Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. 10.5281/zenodo.3233986"
+    "text": "What does reproducibility mean actually?\n\nThe ability of independent investigators to draw the same conclusions from an study by following the documentation shared by the original investigators.\n    \n\n\n\n\nSchloss, 2018. DOI: 10.1128/mbio.00525-18\n\n\nThe Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. 10.5281/zenodo.3233986"
+  },
+  {
+    "objectID": "01-reprores-slides.html#what-does-reproducibility-mean-actually-3",
+    "href": "01-reprores-slides.html#what-does-reproducibility-mean-actually-3",
+    "title": "Reproducible Research",
+    "section": "What does reproducibility mean actually?",
+    "text": "What does reproducibility mean actually?\n\n\n\nDirect reproducibility (also called experimental reproducibility) 🧪\n\n\n\n\nAnalytical reproducibility (also called computational reproducibility) 💻\n\n\n\n\nOther related terms to distinguish:\n\n\n\nReplicability: Different data | Same methods\nRobustness: Same data | Different methods\nGeneralisability: Different data | Different methods\n\n\n\n\n\n\nSchloss, 2018. DOI: 10.1128/mbio.00525-18\n\n\nThe Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science (Version v0.0.4). Zenodo. 10.5281/zenodo.3233986"
   },
   {
     "objectID": "01-reprores-slides.html#in-other-words",
