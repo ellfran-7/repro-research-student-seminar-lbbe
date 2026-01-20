@@ -10,14 +10,17 @@
 
 ## Background of the presentation
 
-This presentation was designed for a weekly seminar series at the [LEHNA](https://umr5023.univ-lyon1.fr/) laboratory. It originated from discussions with my friend and lab member [Jérémy Bacon](https://umr5023.univ-lyon1.fr/annuaire/details/1/535-bacon-jeremy). This seminar is a shorter, less hands-on version of the workshop I conducted in February of this year—you can explore the full materials and site [here](https://ellfran-7.github.io/repro-research-workshop/). 
+This presentation was designed for a weekly student seminar series at the [LBBE](https://lbbe.univ-lyon1.fr/fr) laboratory, organised by the Student Seminar team (most members of which are part of [Les Pinsons Migrateurs](https://lbbe.univ-lyon1.fr/en/les-pinsons-migrateurs). It originates from discussions with many of my fellow colleagues about reproducible research—its *whys* and *hows*—and from the observation that a seminar on this topic has strong potential to spark rich and meaningful discussions.
 
-Recognising the ongoing need to share knowledge about reproducible research, I decided to organise this session to contribute what I know on the topic (or what I think I know :alien:). While I don't claim to be an expert, every little helps. My hope is that this seminar sparks enough interest to encourage others to explore and strive toward more reproducible, transparent, and accessible research practices.
+This seminar is a fusion of two earlier contributions: my very first hands-on workshop held in February 2025 for the [LIEC](https://www.liec.univ-lorraine.fr/) (Metz), and a previous presentation given in September 2025 for the [LEHNA](https://umr5023.univ-lyon1.fr/) (Lyon). You can explore the full materials and corresponding websites here: [workshop](https://ellfran-7.github.io/repro-research-workshop/) and [presentation](https://ellfran-7.github.io/repro-research-presentation/).
+
+Recognising the ongoing need to share knowledge about reproducible research—and the desire to discuss it with non-permanent researchers—I decided to organise this session as a way to contribute what I know on the topic (or what I think I know :alien:). While I don't claim to be an expert, every little helps. My hope is that this seminar sparks enough interest to encourage others to explore and strive toward more reproducible, transparent, and accessible research practices.
 
 
 ## Description
 
 The presentation focuses on introducing the what, where, when, and how of reproducible research. We'll explore the benefits of working reproducibly—both for others and for ourselves—examine the factors that limit or discourage reproducible practices, and discuss practical, incremental solutions for becoming more reproducible in our work.
+There will be some interactive elements scattered around the presentation.
 A seminar on this subject gains value through interaction and engagement from the audience, so I've woven discussion questions throughout the presentation to encourage exchange and reflection.
 
 
@@ -38,4 +41,4 @@ and the
 ## Licence
 
 Except where otherwise noted, this work is licensed under a [Creative Commons Attribution 4.0 International
-License](https://github.com/ellfran-7/repro-research-workshop/LICENCE.txt).
+License](https://github.com/ellfran-7/repro-research-student-seminar-lbbe/LICENCE.txt).
