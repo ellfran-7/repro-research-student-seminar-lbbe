@@ -267,7 +267,7 @@ Reproducible research skills are highly sought after in careers like data scienc
 ## Example: a drawing protocol {auto-animate="true"}
 
 ::: fragment
-**You really want to draw something but don't know how. You find this protocol in a very prestigious journal and want to reproduce it. Grab your pens and papers :pencil: !**
+**You really want to draw something but don't know how. You find this protocol in a very prestigious journal and want to reproduce their drawing. Grab a pen and paper :pencil: !**
 :::
 
 :::::: fragment
@@ -283,11 +283,11 @@ Switch Language
 1.  Draw a medium-sized oval in the center of the page.
 2.  Draw a second oval inside the first one. It should be similar in shape, but smaller.
 3.  Near the top of the larger oval, draw two small circles, one on the left and one on the right.
-4.  Inside each circle, draw a smaller filled-in circle.
-5.  Between and slightly below the circles, draw a triangle.
-6.  Above the circles, draw several thin lines on each side. The lines should go outward.
-7.  On the both the left and right side of the body, draw a long curved shape, extending outward from the body.
-8.  At the bottom of the oval, draw two small shapes touching the body.
+4.  Between and slightly below the circles, draw a triangle.
+5.  Above the circles, draw several thin lines on each side. The lines should go outward.
+6.  Inside each circle, draw a smaller filled-in circle.
+7.  On both the left and right side of the largest oval, draw a long curved shape, extending outward.
+8.  At the bottom of the large oval, draw two small shapes touching the body.
 :::
 
 
@@ -295,11 +295,12 @@ Switch Language
 1.  Dessinez un ovale de taille moyenne au centre de la page.
 2.  Dessinez un deuxième ovale à l’intérieur du premier. Il doit être de forme similaire, mais plus petit.
 3.  Près du sommet du plus grand ovale, dessinez deux petits cercles, un à gauche et un à droite.
-4.  À l’intérieur de chaque cercle, dessinez un cercle plus petit plein.
-5.  Entre les cercles et légèrement en dessous, dessinez un triangle.
-6.  Au-dessus des cercles, tracez plusieurs lignes fines de chaque côté. Les lignes doivent aller vers l’extérieur.
-7.  Sur les deux côtés du corps, dessinez une longue forme courbée, qui s’étend vers l’extérieur.
-8.  En bas de l’ovale, dessinez deux petites formes touchant le corps.
+4.  Entre les cercles et légèrement en dessous, dessinez un triangle.
+5.  Au-dessus des cercles, tracez plusieurs lignes fines de chaque côté. Les lignes doivent aller vers l’extérieur.
+6.  À l’intérieur de chaque cercle, dessinez un cercle plus petit plein.
+7.  Sur les côtés gauche et droit du plus grand ovale, dessinez une longue forme courbée s’étendant vers l’extérieur.
+8.  En bas du grand ovale, dessinez deux petites formes touchant le corps.
+
 
 :::
 
