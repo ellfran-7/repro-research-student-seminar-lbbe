@@ -101,11 +101,10 @@ knitr::opts_chunk$set(
 <br/>
 
 
-[The ability of independent investigators to draw the **same conclusions** from an study by following the **documentation shared by the original investigators**.]{style="text-align: center; display: block;"}
+[The ability of independent investigators to obtain the **same results** from a study by following the **methods and documentation provided by the original investigators.**]{style="text-align: center; display: block;"}
 
 
 <br/> <br/> <br/> <br/> <br/>
-
 
 ::: aside
 <ul style="list-style: none; font-size: 75%">
