@@ -305,7 +305,6 @@ Switch Language
 :::
 
 
-</div>
 
 <script>
 function toggleLanguage() {
@@ -319,7 +318,9 @@ function toggleLanguage() {
     french.style.display = "block";
   }
 }
+
 </script>
+</div>
 ::::::
 
 ::: aside
