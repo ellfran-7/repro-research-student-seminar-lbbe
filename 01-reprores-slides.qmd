@@ -330,13 +330,14 @@ Inspired by [Repro4Everyone. (n.d.). Introduction to Reproducibility. Repro4Ever
 
 ## Example: a drawing protocol {auto-animate="true"}
 
+<br/>
 ::::: {layout="[10, -2, 10]" layout-valign="bottom"}
 ::: fragment
-![My attempt](images/rockhopper-my-drawing.jpg){width="70%"}
+![My attempt](images/rockhopper-my-drawing.jpeg){.lightbox width="75%"}
 :::
 
 ::: fragment
-![The result in the study](images/rockhopper-good-drawing.jpg){width="70%"}
+![The result in the study](images/rockhopper-good-drawing.jpg){.lightbox width="80%"}
 :::
 :::::
 
@@ -490,7 +491,7 @@ Drawing by Gennadiy Lukaynenko, CC BY 4.0.
 :::
 
 ::: {.column width="50%"}
-![Artwork by Allison Horst](images/ahorst-before-compendium.png){.lightbox width="800"}
+![Artwork by [Allison Horst](https://allisonhorst.com/allison-horst)](images/ahorst-before-compendium.png){.lightbox width="800"}
 :::
 :::::
 :::::::
@@ -519,7 +520,7 @@ Drawing by Gennadiy Lukaynenko, CC BY 4.0.
 :::
 
 ::: {.column width="50%"}
-![Artwork by Allison Horst](images/ahorst-after-compendium.png){.lightbox width="800"}
+![Artwork by [Allison Horst](https://allisonhorst.com/allison-horst)](images/ahorst-after-compendium.png){.lightbox width="800"}
 :::
 :::::
 :::::::
@@ -549,7 +550,7 @@ Drawing by Gennadiy Lukaynenko, CC BY 4.0.
 :::
 
 ::: {.column width="50%"}
-![Artwork by Allison Horst](images/rcompendium-example.png){.lightbox width="350"}
+![Artwork by [Allison Horst](https://allisonhorst.com/allison-horst)](images/rcompendium-example.png){.lightbox width="350"}
 :::
 :::::
 :::::::
@@ -803,7 +804,7 @@ bill_length_summary_df <- penguins |>
 ::::
 
 :::: {.column width="50%"}
-![Artwork by [@allison_horst](https://allisonhorst.com/allison-horst)](images/ahorst-inthatcase.png){.lightbox width="700"}
+![Artwork by [Allison Horst](https://allisonhorst.com/allison-horst)](images/ahorst-inthatcase.png){.lightbox width="700"}
 
 ::::
 ::::::
@@ -1060,7 +1061,7 @@ Research becomes inaccessible and irreproducible when results are manually creat
 - To advance, we must code a little...
 :::
 
-![Artwork by Allison Horst](images/ahorst-ik-itwasyou.png){.lightbox fig-align="center" width="600"}
+![Artwork by [Allison Horst](https://allisonhorst.com/allison-horst)](images/ahorst-ik-itwasyou.png){.lightbox fig-align="center" width="600"}
 
 
 
