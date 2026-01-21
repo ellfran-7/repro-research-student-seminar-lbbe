@@ -172,7 +172,7 @@
     "href": "01-reprores-slides.html#example-a-drawing-protocol-1",
     "title": "Reproducible Research",
     "section": "Example: a drawing protocol",
-    "text": "Example: a drawing protocol\n\n\n\n\n\n\n\n\n\nMy attempt\n\n\n\n\n \n\n\n\n\n\nThe result in the study\n\n\n\n\n\nHow did you do?\n\n\n\nDrawing by Gennadiy Lukaynenko, CC BY 4.0."
+    "text": "Example: a drawing protocol\n ::::: {layout=“[10, -2, 10]” layout-valign=“bottom”} ::: fragment  :::\n\n\n\n\nThe result in the study\n\n\n\n:::::\nHow did you do?\n\n\n\nDrawing by Gennadiy Lukaynenko, CC BY 4.0."
   },
   {
     "objectID": "01-reprores-slides.html#factors-limiting-reproducibility-1",
@@ -298,7 +298,7 @@
     "href": "01-reprores-slides.html#during-data-analysis-5",
     "title": "Reproducible Research",
     "section": "During data analysis ",
-    "text": "During data analysis \nBest coding practices\n\n\nIssues: Without proper coding practices, analyses become error-prone, impossible to reproduce, and difficult for others (including your future self) to understand or verify\n\n\n\n\nSolutions:\n\nUse reproducible environments\nDocument your code\nHarmonise your code style\n\n\n\n\n\nArtwork by @allison_horst"
+    "text": "During data analysis \nBest coding practices\n\n\nIssues: Without proper coding practices, analyses become error-prone, impossible to reproduce, and difficult for others (including your future self) to understand or verify\n\n\n\n\nSolutions:\n\nUse reproducible environments\nDocument your code\nHarmonise your code style\n\n\n\n\n\nArtwork by Allison Horst"
   },
   {
     "objectID": "01-reprores-slides.html#during-data-analysis-6",
