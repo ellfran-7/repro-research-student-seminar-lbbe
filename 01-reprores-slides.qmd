@@ -331,7 +331,8 @@ Inspired by [Repro4Everyone. (n.d.). Introduction to Reproducibility. Repro4Ever
 ## Example: a drawing protocol {auto-animate="true"}
 
 <br/>
-::::: {layout="[10, -2, 10]" layout-valign="bottom"}
+
+:::: {layout="[10, -2, 10]" layout-valign="bottom"}
 ::: fragment
 ![My attempt](images/rockhopper-my-drawing.jpeg){.lightbox width="75%"}
 :::
@@ -339,7 +340,7 @@ Inspired by [Repro4Everyone. (n.d.). Introduction to Reproducibility. Repro4Ever
 ::: fragment
 ![The result in the study](images/rockhopper-good-drawing.jpg){.lightbox width="80%"}
 :::
-:::::
+::::
 
 [How did you do?]{style="text-align: center; display: block;"}
 
